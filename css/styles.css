@@ -1,0 +1,18 @@
+.section-cards{
+    display: flex;
+}
+
+.card{
+    flex-direction: row;
+}
+
+.barra-nav{
+    width: auto;
+}
+
+.title-header{
+    background-color: black;
+    color: antiquewhite;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
